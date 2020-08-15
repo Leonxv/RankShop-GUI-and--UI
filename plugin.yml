@@ -1,0 +1,16 @@
+name: RankShop
+author: 
+- Aleondev
+- CodiiiDev
+version: 1.0.0
+api: 
+- 3.0.0
+- 4.0.0
+main: shop\Main
+commands:
+  rshop:
+    description: §6Rabk§aShop
+  rshopgui:
+    description: §6Rank§aShop open GUI
+  rshopui:
+    description: §6Rank§aShop open UI

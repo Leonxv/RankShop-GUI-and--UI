@@ -1,0 +1,24 @@
+#### Config By Aleondev ###
+### Rank Name ###
+rank1: "rank1"
+rank2: "rank2"
+rank3: "rank3"
+rank4: "rank4"
+rank5: "rank5"
+### Rank Price ###
+rank1price: "1000"
+rank2price: "1000"
+rank3price: "1000"
+rank4price: "1000"
+rank5price: "1000"
+### Message ###
+prefix: "§bRankShop §7>>"
+buy: "§a You have succesfully baught a rank"
+nomoney: "§c You don't have enough money to do rank"
+noperms: "§c You don't have permissions's for it"
+$: "$"
+### UI ###
+title: "§bRankShop"
+content: "§6This is a RankShop"
+button: "§cClose"
+### Config End ###
