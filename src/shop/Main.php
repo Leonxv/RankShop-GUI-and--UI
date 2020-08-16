@@ -20,6 +20,9 @@ use onebone\economyapi\EconomyAPI;
 use muqsit\invmenu\{InvMenu, InvMenuHandler};
 use pocketmine\item\Item;
 use pocketmine\item\ItemBlock;
+use _64FF00\PurePerms\PPGroup;
+use _64FF00\PurePerms\PurePerms;
+use _64FF00\PurePerms\;
 
 # Main class
 class Main extends PluginBase implements Listener
