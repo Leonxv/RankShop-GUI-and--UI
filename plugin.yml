@@ -7,9 +7,12 @@ api:
 - 3.0.0
 - 4.0.0
 main: shop\Main
+depend:
+- EconomyAPI
+- PurePerms
 commands:
   rshop:
-    description: §6Rabk§aShop
+    description: §6Rank§aShop
   rshopgui:
     description: §6Rank§aShop open GUI
   rshopui:
