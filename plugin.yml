@@ -12,7 +12,7 @@ depend:
 - PurePerms
 commands:
   rshop:
-    description: §6Rabk§aShop
+    description: §6Rank§aShop
   rshopgui:
     description: §6Rank§aShop open GUI
   rshopui:
